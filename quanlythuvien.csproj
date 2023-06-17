@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E8D2A6AB-A27C-4FF9-ACAC-876692F4D344}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>quanlythuvien</RootNamespace>
+    <AssemblyName>quanlythuvien</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.4000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BaocaodsDocgiamuonchuatra.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BaocaodsDocgiamuonchuatra.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BaocaoDSMT.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BaocaoDSMT.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BaocaoDSMT_thang_nam.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BaocaoDSMT_thang_nam.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BaocaoDSMT_theoTenSV.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BaocaoDSMT_theoTenSV.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BaocaodsSachchuatra.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BaocaodsSachchuatra.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="BaocaoSachMuonMax.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BaocaoSachMuonMax.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="dangki.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dangki.Designer.cs">
+      <DependentUpon>dangki.cs</DependentUpon>
+    </Compile>
+    <Compile Include="dangnhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="dangnhap.Designer.cs">
+      <DependentUpon>dangnhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="docgia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="docgia.Designer.cs">
+      <DependentUpon>docgia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DoiMatKhau.Designer.cs">
+      <DependentUpon>DoiMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBCDSMT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBCDSMT.Designer.cs">
+      <DependentUpon>FrmBCDSMT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBCDSMT_thang_nam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBCDSMT_thang_nam.Designer.cs">
+      <DependentUpon>FrmBCDSMT_thang_nam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBCDSMT_theoTenSV.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBCDSMT_theoTenSV.Designer.cs">
+      <DependentUpon>FrmBCDSMT_theoTenSV.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoadData.cs" />
+    <Compile Include="loaisach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="loaisach.Designer.cs">
+      <DependentUpon>loaisach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="muontra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="muontra.Designer.cs">
+      <DependentUpon>muontra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="nhanvien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="nhanvien.Designer.cs">
+      <DependentUpon>nhanvien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="nhaxuatban.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="nhaxuatban.Designer.cs">
+      <DependentUpon>nhaxuatban.cs</DependentUpon>
+    </Compile>
+    <Compile Include="quenmatkhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="quenmatkhau.Designer.cs">
+      <DependentUpon>quenmatkhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sach.Designer.cs">
+      <DependentUpon>sach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="sachchuatra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sachchuatra.Designer.cs">
+      <DependentUpon>sachchuatra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="tacgia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="tacgia.Designer.cs">
+      <DependentUpon>tacgia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="trangchu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="trangchu.Designer.cs">
+      <DependentUpon>trangchu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="BaocaodsDocgiamuonchuatra.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BaocaodsDocgiamuonchuatra.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaocaoDSMT.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BaocaoDSMT.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaocaoDSMT_thang_nam.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BaocaoDSMT_thang_nam.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaocaoDSMT_theoTenSV.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BaocaoDSMT_theoTenSV.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaocaodsSachchuatra.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BaocaodsSachchuatra.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaocaoSachMuonMax.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>BaocaoSachMuonMax.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dangki.resx">
+      <DependentUpon>dangki.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="dangnhap.resx">
+      <DependentUpon>dangnhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="docgia.resx">
+      <DependentUpon>docgia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DoiMatKhau.resx">
+      <DependentUpon>DoiMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBCDSMT.resx">
+      <DependentUpon>FrmBCDSMT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBCDSMT_thang_nam.resx">
+      <DependentUpon>FrmBCDSMT_thang_nam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBCDSMT_theoTenSV.resx">
+      <DependentUpon>FrmBCDSMT_theoTenSV.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="loaisach.resx">
+      <DependentUpon>loaisach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="muontra.resx">
+      <DependentUpon>muontra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="nhanvien.resx">
+      <DependentUpon>nhanvien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="nhaxuatban.resx">
+      <DependentUpon>nhaxuatban.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="quenmatkhau.resx">
+      <DependentUpon>quenmatkhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sach.resx">
+      <DependentUpon>sach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sachchuatra.resx">
+      <DependentUpon>sachchuatra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="tacgia.resx">
+      <DependentUpon>tacgia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="trangchu.resx">
+      <DependentUpon>trangchu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons dang nhap.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dangnhap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thoat.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thoat1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout-icon1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\332.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\attribution-icon-2888829_960_720.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon2-02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon_vcoin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\long-icon-011_002.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Graphicloads-100-Flat-Home.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-muiten.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\225ca192f0dcd11d81c4f5bed8debb40.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-writing-book-writer-publishing-last-seen-in-lhasa-creative-lectures-5b4dbf44651159.321532291531821892414.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\books.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LOFWI_20180516050624Logo-GD.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-books-icon-design-vector-png-image_3664722.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Iconsmind-Outline-Numbering-List.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1books4med.gif.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sm_5aee9ef4ec797.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sm_5aee9ef4ec7971.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mCiX78n.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Graphicloads-Colorful-Long-Shadow-Search.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Loupe-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\web-circle-circular-round_58-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\web-circle-circular-round_58-5121.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-add-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-add-5121.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\39220.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Artboard_73-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icon-muiten1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-add-5122.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dangnhap1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-male-student-icon-png-image_3715083.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-club-lecture-enfants-la-richardais.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-male-student-icon-png-image_37150831.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-club-lecture-enfants-la-richardais1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\books1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1books4med.gif1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boek-png-2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-public-library-child-reading-clip-art-student-5a7d300cb687c6.5163955115181537407477.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\123.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mayin.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{C0C07587-41A7-46C8-8FBD-3F9C8EBE2DDC}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Oxygen-Icons.org-Oxygen-Devices-secure-card.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login-user-computer-icons-form-password-others.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\mon-tra-sua-tran-chau.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

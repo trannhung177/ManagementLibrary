@@ -1,0 +1,90 @@
+D:\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.dangki.resources
+D:\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.dangnhap.resources
+D:\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.docgia.resources
+D:\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.loaisach.resources
+D:\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.nhanvien.resources
+D:\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.nhaxuatban.resources
+D:\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.sach.resources
+D:\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.tacgia.resources
+D:\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.trangchu.resources
+D:\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.Properties.Resources.resources
+D:\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.csproj.GenerateResource.Cache
+D:\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\bin\Debug\quanlythuvien.exe.config
+D:\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\bin\Debug\quanlythuvien.exe
+D:\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\bin\Debug\quanlythuvien.pdb
+D:\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.exe
+D:\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.pdb
+D:\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.muontra.resources
+D:\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.inphieuMT.resources
+D:\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.inphieuCTMT.resources
+D:\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.sachchuatra.resources
+D:\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.quenmatkhau.resources
+D:\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.order.resources
+D:\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.csprojResolveAssemblyReference.cache
+D:\Tài liệu học tập fithou\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.csproj.AssemblyReference.cache
+D:\Tài liệu học tập fithou\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.dangki.resources
+D:\Tài liệu học tập fithou\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.dangnhap.resources
+D:\Tài liệu học tập fithou\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.docgia.resources
+D:\Tài liệu học tập fithou\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.inphieuCTMT.resources
+D:\Tài liệu học tập fithou\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.inphieuMT.resources
+D:\Tài liệu học tập fithou\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.loaisach.resources
+D:\Tài liệu học tập fithou\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.muontra.resources
+D:\Tài liệu học tập fithou\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.nhanvien.resources
+D:\Tài liệu học tập fithou\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.nhaxuatban.resources
+D:\Tài liệu học tập fithou\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.order.resources
+D:\Tài liệu học tập fithou\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.quenmatkhau.resources
+D:\Tài liệu học tập fithou\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.sach.resources
+D:\Tài liệu học tập fithou\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.sachchuatra.resources
+D:\Tài liệu học tập fithou\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.tacgia.resources
+D:\Tài liệu học tập fithou\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.trangchu.resources
+D:\Tài liệu học tập fithou\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.Properties.Resources.resources
+D:\Tài liệu học tập fithou\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.csproj.GenerateResource.cache
+D:\Tài liệu học tập fithou\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.csproj.CoreCompileInputs.cache
+D:\Tài liệu học tập fithou\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.exe
+D:\Tài liệu học tập fithou\TAI LIEU HOC TAP\LAP TRINH HUONG SU KIEN (C#)\BAI TAP LON\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.pdb
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.dangki.resources
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.dangnhap.resources
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.docgia.resources
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.loaisach.resources
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.muontra.resources
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.nhanvien.resources
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.nhaxuatban.resources
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.quenmatkhau.resources
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.sach.resources
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.sachchuatra.resources
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.tacgia.resources
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.trangchu.resources
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.Properties.Resources.resources
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.csproj.GenerateResource.cache
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.csproj.CoreCompileInputs.cache
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.exe
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.pdb
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\bin\Debug\quanlythuvien.exe.config
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\bin\Debug\quanlythuvien.exe
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\bin\Debug\quanlythuvien.pdb
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\bin\Debug\CrystalDecisions.Shared.dll
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\bin\Debug\AxShockwaveFlashObjects.dll
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\bin\Debug\ShockwaveFlashObjects.dll
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\bin\Debug\stdole.dll
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.csproj.CopyComplete
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.FrmBCDSMT.resources
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.FrmBCDSMT_thang_nam.resources
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.DoiMatKhau.resources
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.FrmBCDSMT_theoTenSV.resources
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.csproj.AssemblyReference.cache
+D:\Documents\btlhsk\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.Form1.resources
